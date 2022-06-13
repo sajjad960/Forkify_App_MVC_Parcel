@@ -9,4 +9,14 @@ You can find out all of architecture into the `Architecture` folder.
 * OOP
 * MVC
 * Parcel
-## 
+## Installation
+Please run this command to run this project
+```
+npm install
+npm start
+```
+Open any browser and visit http://localhost:1234/
+Thank you.
+
+If you need any help knock me:- [Sajjad_Hossain](https://twitter.com/SajjadH40513194)
+
